@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RunSettings>
+
+  <!-- Parameters used by tests at runtime -->
+  <TestRunParameters>
+    <Parameter name="Application" value="C:\Users\Juan\Source\Repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe" />
+    <Parameter name="Technology" value="Desktop" />
+  </TestRunParameters>
+
+</RunSettings>
